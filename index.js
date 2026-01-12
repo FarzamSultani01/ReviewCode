@@ -10,6 +10,25 @@
 
 // EX2
 
-const numbers =[4,6,8,9];
-const min = numbers.map(mins => mins -3);
-alert(min)
+// const numbers =[4,6,8,9];
+// const min = numbers.map(mins => mins -3);
+// alert(min);
+
+                // filter
+
+// Ex1
+
+// const number=[1,2,3,4,5,6,7,8,9,10];
+// const even=number.filter( num => num % 2 ===0 );
+// alert(even)
+// Ex2
+// const numbers=[11,22,33,44,45,451,1356,3425];
+// const odd=numbers.filter( num=> num % 2 !==0);
+// alert(odd);
+
+                ///Reduce
+
+// Ex1
+const numbers=[1,2,3,4,5];
+const sum = numbers.reduce((acc,num) => acc + num,0);
+alert(sum);
