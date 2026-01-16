@@ -40,3 +40,9 @@
 // const numbers=[10,20,30];
 // const [x,y]=numbers;
 // alert(y);
+
+// Ex2
+ const user={name:"Farzam", age:23, role:"developer"};
+ const {role:job}=user;
+ alert(job);
+ alert("All code is working properly");
