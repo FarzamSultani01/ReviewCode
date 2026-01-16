@@ -42,7 +42,15 @@
 // alert(y);
 
 // Ex2
- const user={name:"Farzam", age:23, role:"developer"};
- const {role:job}=user;
- alert(job);
- alert("All code is working properly");
+//  const user={name:"Farzam", age:23, role:"developer"};
+//  const {role:job}=user;
+//  alert(job);
+//  alert("All code is working properly");
+// 
+// 
+// ////////// Spread Operator (...) ////////
+
+// Ex1
+        // const user={ name:"Farzam", age:23};
+        // const userClone={ ...user, role:"Software Engineer", country:"DeutchLand"};
+        // console.log(userClone);
