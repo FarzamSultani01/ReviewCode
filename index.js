@@ -33,3 +33,10 @@
 // const sum = numbers.reduce((acc,num) => acc + num,0);
 // alert(sum);
 // work more of reduce
+///////   Destructuring   ////////
+
+// Ex1
+
+// const numbers=[10,20,30];
+// const [x,y]=numbers;
+// alert(y);
