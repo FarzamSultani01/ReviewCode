@@ -53,8 +53,3 @@ console.log("JavaScript is linked properly.");
 // 
 // ////////// Spread Operator (...) ////////
 
-// Ex1
-        // const user={ name:"Farzam", age:23};
-        // const userClone={ ...user, role:"Software Engineer", country:"DeutchLand"};
-        // console.log(userClone);
->>>>>>> 90de26796fecc5414b38b942b7ec52752137214b
