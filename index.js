@@ -57,3 +57,8 @@ console.log("JavaScript is linked properly.");
         // const user={ name:"Farzam", age:23};
         // const userClone={ ...user, role:"Software Engineer", country:"DeutchLand"};
         // console.log(userClone);
+ //////////////rest operator/////////////
+// Ex1
+
+// const {name, ...details} = { name:"Farzam", age:23, role:"Developer"};
+// console.log(details);
