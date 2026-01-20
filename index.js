@@ -54,3 +54,14 @@
         // const user={ name:"Farzam", age:23};
         // const userClone={ ...user, role:"Software Engineer", country:"DeutchLand"};
         // console.log(userClone);
+///////// rest operator ////////
+
+// Ex1
+// const [first, ...others]=[12,23,34,32,55];
+// alert(first);
+// alert(others);
+
+// ex2
+// const {name, ...details}={ name:"Farzam" , age:23, role:"Best Developer there is"};
+// alert(name);
+// console.log(details);
