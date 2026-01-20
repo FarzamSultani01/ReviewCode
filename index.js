@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-console.log("JavaScript is linked properly.");
-=======
+// <<<<<<< HEAD
+// console.log("JavaScript is linked properly.");
+// =======
 
 // console.log("JavaScript is linked properly.");
 
